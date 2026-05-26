@@ -2,4 +2,4 @@
 
 Welcome to redesigned parakeet, the future of the species 
 
-![The San Juan Mountains are beautiful](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+![a beautiful creature](https://upload.wikimedia.org/wikipedia/commons/4/40/MontezumaSulcata.png?_=20170814160243)
